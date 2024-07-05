@@ -11,7 +11,7 @@ Il consiste a faire une analyse d'image 2D avec les concept suivants :
 
 Nos 3 descripteurs de formes sont :
 - Indice de complexite
-    - Aucune unite pour le domaine 0-1.2
+    - Aucune unite pour le domaine 0-1
     - Correspont a (4*pi*aire) divise par le perimetre au carre
 
 - Indice de compacite
