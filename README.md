@@ -1,6 +1,5 @@
 # SchoolProject_AI
 
-Projet 1 - C52 - About
 Ce logiciel est le projet #1 du cours C52.
 
 Il consiste a faire une analyse d'image 2D avec les concept suivants :
